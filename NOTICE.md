@@ -1,9 +1,8 @@
-NOTICE
+## NOTICE
 
 The COBRAS source code is Copyright © 2026 Nelson Luiz Waissman and is licensed under the MIT License. This notice identifies third-party software included in the distributed bootable disk image.
 
-
-Einstein Applesoft Compiler
+## Einstein Applesoft Compiler
 
 The bootable disk image in the disk/ directory was generated using the Einstein Applesoft Compiler.
 
@@ -14,7 +13,7 @@ This repository makes no claim of ownership over the Einstein Compiler or any Ei
 According to documentation archived by the Apple II community, the Einstein Compiler itself has been distributed as freeware for non-commercial redistribution. This statement is provided for informational purposes only and does not modify or supersede any rights held by the copyright owners.
 
 
-SMT READ.TIME
+## SMT READ.TIME
 
 The distributed disk image includes the READ.TIME utility from the SMT Utilities Disk for the No-Slot Clock.
 
