@@ -2,7 +2,8 @@ COBRAS
 
 COBRAS is a Snake-inspired game included as a demonstration of the capabilities of my Apple II+ emulator.
 
-Features
+## Features
+
 Fast low resolution graphics
 10 increasingly challenging levels
 Intelligent fruit placement to avoid unreachable positions
@@ -19,13 +20,13 @@ Z         Move Down
 ←         Move Left
 →         Move Right
 
-Technical Notes
+## Technical Notes
 
 COBRAS was written entirely in Applesoft BASIC and compiled using the Einstein Applesoft Compiler for improved performance.
 
 The original Applesoft source code is also included on the disk. When running the interpreted version, gameplay speed can be adjusted by modifying the DE (delay) variable.
 
-Performance improvements include:
+## Performance improvements include:
 
 Circular buffer used to store the snake body
 Only the head and tail are updated each frame
