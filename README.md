@@ -4,15 +4,15 @@ COBRAS is a Snake-inspired game included as a demonstration of the capabilities 
 
 ## Features
 
-Fast low resolution graphics
-10 increasingly challenging levels
-Intelligent fruit placement to avoid unreachable positions
-Score points by eating fruit
-Obstacles include your own tail, mines, and walls
-Level-up and high-score intermission screens
-Apple II speaker sound effects
-Persistent high-score table stored on disk
-No-Slot Clock support for recording the date of each high score
+- Fast low resolution graphics
+- 10 increasingly challenging levels
+- Intelligent fruit placement to avoid unreachable positions
+- Score points by eating fruit
+- Obstacles include your own tail, mines, and walls
+- Level-up and high-score intermission screens
+- Apple II speaker sound effects
+- Persistent high-score table stored on disk
+- No-Slot Clock support for recording the date of each high score
 
 Controls
 A         Move Up
@@ -28,10 +28,10 @@ The original Applesoft source code is also included on the disk. When running th
 
 ## Performance improvements include:
 
-Circular buffer used to store the snake body
-Only the head and tail are updated each frame
-Static playfield objects are drawn only once
-Collision detection is performed directly against the video buffer, eliminating the need for a separate playfield array
+- Circular buffer used to store the snake body
+- Only the head and tail are updated each frame
+- Static playfield objects are drawn only once
+- Collision detection is performed directly against the video buffer, eliminating the need for a separate playfield array
 
 I hope you find this game interesting. Code is available in Github at: 
 
