@@ -309,18 +309,4 @@ END GAME          6000
 6090 TEXT : HOME : END
 
 
-****************************************************************************************************************
-****************** Recreate hi-score table - Careful, this programs erases all your hi-scores ******************
-****************************************************************************************************************
-
-
-10 PRINT CHR$(4);"OPEN HISCORE"
-20 PRINT CHR$(4);"WRITE HISCORE"
-30 SC = 0 : LV = 0 : N$ = "EMPTY" : YY = 26 : MM = 7 : DD = 11
-40 FOR X=1 TO 10 
-50 PRINT SC;",";LV;",";N$;",";YY;",";MM;",";DD
-60 NEXT
-70 PRINT CHR$(4);"CLOSE HISCORE"
-
-
 

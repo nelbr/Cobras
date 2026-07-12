@@ -33,6 +33,6 @@ The original Applesoft source code is also included on the disk. When running th
 - Static playfield objects are drawn only once
 - Collision detection is performed directly against the video buffer, eliminating the need for a separate playfield array
 
-I hope you find this game interesting. Code is available in Github at: 
+I hope you find this game interesting. Code is available in Github at: https://github.com/nelbr/Cobras
 
 Feel free to leave game suggestions, bug reports or just a message on the repository if you wish. I would be glad to hear from you. 
