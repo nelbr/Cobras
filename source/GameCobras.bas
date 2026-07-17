@@ -42,6 +42,14 @@ TITLE OVER        5700
 SAVE HI SCORE     5800
 END GAME          6000
 
+Music Player
+$1E and $1F are now managed by the program
+
+SongPtrLo - $7022 (28706) should contain $CA = 202
+SongPtrHi - $7023 (28707) should contain $72 = 114
+
+SongValue - $72CC
+
 
 10 REM INIT VARIABLES
 20 DIM SN(100,1) : DIM S(10) : DIM L(10) : DIM DD(10) : DIM MM(10) : DIM YY(10) : DIM N$(10)
