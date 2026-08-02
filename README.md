@@ -18,6 +18,7 @@ COBRAS is a Snake-inspired game included as a demonstration of the capabilities 
 - Apple II speaker sound effects
 - Persistent high-score table stored on disk
 - No-Slot Clock support for recording the date of each high score
+- Mockingboard music on Title Screen (still WIP). 
 
 Controls
 A         Move Up
