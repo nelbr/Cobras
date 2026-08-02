@@ -22,10 +22,10 @@ COBRAS is a Snake-inspired game included as a demonstration of the capabilities 
 
 ## Controls
 
-**A**      Move Up
-**Z**      Move Down
-**←**      Move Left
-**→**      Move Right
+**A**      Move Up  
+**Z**      Move Down  
+**←**      Move Left  
+**→**      Move Right  
 
 
 ## Technical Notes
