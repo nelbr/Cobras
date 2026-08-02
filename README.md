@@ -2,9 +2,9 @@ COBRAS
 
 COBRAS is a Snake-inspired game included as a demonstration of the capabilities of my Apple II+ emulator.
 
-The Pleasure of Discovery: Find out the wicked challenges of increasing difficulty included in each level.
-The Thrills of High Score Achievements: Beat your own scores or your friends results
-The Challenge of Boss Fights: Kill the boss to win the game on the 10th level of this demo
+**The Pleasure of Discovery:** Find out the wicked challenges of increasing difficulty included in each level.  
+**The Thrills of High Score Achievements:** Beat your own scores or your friends results.  
+**The Challenge of Boss Fights:** Kill the boss to win the game on the 10th level of this demo.  
 
 
 ## Features
