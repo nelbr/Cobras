@@ -4,7 +4,7 @@ COBRAS is a Snake-inspired game included as a demonstration of the capabilities 
 
 **The Pleasure of Discovery:** Find out the wicked challenges of increasing difficulty included in each level.  
 **The Thrills of High Score Achievements:** Beat your own scores or your friends results.  
-**The Challenge of Boss Fights:** Kill the boss to win the game on the 10th level of this demo.  
+**The Challenge of Boss Fights:** Defeat the boss on level 10 to complete the demo.  
 
 
 ## Features
@@ -20,15 +20,16 @@ COBRAS is a Snake-inspired game included as a demonstration of the capabilities 
 - No-Slot Clock support for recording the date of each high score
 - Mockingboard music on title screen (still WIP). 
 
-Controls
-A         Move Up
-Z         Move Down
-←         Move Left
-→         Move Right
+##Controls
+**A**      Move Up
+**Z**      Move Down
+**←**      Move Left
+**→**      Move Right
+
 
 ## Technical Notes
 
-COBRAS was written entirely in Applesoft BASIC and compiled using the Einstein Applesoft Compiler for improved performance.
+Except for the Mockingboard based title music, COBRAS was written entirely in Applesoft BASIC and compiled using the Einstein Applesoft Compiler for improved performance.
 
 The original Applesoft source code is also included on the disk. When running the interpreted version, gameplay speed can be adjusted by modifying the DE (delay) variable.
 

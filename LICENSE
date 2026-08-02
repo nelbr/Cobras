@@ -12,6 +12,12 @@ The bootable disk image contained in the disk/ directory was generated using the
 
 The MIT License granted below applies only to the original COBRAS source code. It does not grant any rights to the Einstein Compiler or to any components of the Einstein runtime that may be included in the compiled disk image. Those components remain the property of their respective copyright holders.
 
+## Music and Mockingboard
+
+The Mockingboard music player was developed entirely in 6502 assembly language. Copyright © 2026 Nelson Luiz Waissman. Its source code is not included with this project.
+
+The title screen melody is "Odeon" by Ernesto Nazareth. The implementation was created from public domain sheet music, and no copyrighted musical source material or code was used in its development.
+
 ## The MIT License follows.
 
 Copyright 2026 Nelson Luiz Waissman
