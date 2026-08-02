@@ -20,7 +20,8 @@ COBRAS is a Snake-inspired game included as a demonstration of the capabilities 
 - No-Slot Clock support for recording the date of each high score
 - Mockingboard music on title screen (still WIP). 
 
-##Controls
+## Controls
+
 **A**      Move Up
 **Z**      Move Down
 **←**      Move Left
