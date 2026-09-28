@@ -13,7 +13,8 @@ Kill Cobra scoring:
     Add Timer
     Update on every movement
 When killed, add remaining timer to score
-Add You Win intermission
+
+Add You Win intermission                            DONE
 
 
 Variables
